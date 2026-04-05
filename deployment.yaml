@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: sharmaxrahul/myapp:v1
+        image: sharmaxrahul/myapp:811d9b50c39440894890ec906a008712d45d37b2
         ports:
         - containerPort: 5000
